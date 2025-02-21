@@ -1,7 +1,3 @@
-Here’s your **updated `README.md`** with an analysis of the **directory images** for better visualization of your project’s structure. 🚀  
-
----
-
 # **Handwritten Alphabet Classification using Deep Learning**  
 
 ### **📌 Project Overview**  

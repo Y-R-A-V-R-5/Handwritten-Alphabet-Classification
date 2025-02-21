@@ -85,7 +85,7 @@ cd Handwritten_Alphabet_Classification
 2️⃣ **Create Virtual Environment (Recommended):**  
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+source venv\Scripts\activate
 ```
 3️⃣ **Install Dependencies:**  
 ```bash
@@ -93,7 +93,7 @@ pip install -r requirements.txt
 ```
 4️⃣ **Run Streamlit Application:**  
 ```bash
-streamlit run main.py
+streamlit run models.py
 ```
 
 ---
@@ -121,7 +121,7 @@ streamlit==1.18.0
 - **Deployment**: Streamlit  
 
 🔹 **Author**: Adithya Vardhan Reddy  
-🔹 **Institution**: Methodist College of Engineering & Technology  
+🔹 **Institution**: Kapil IT Skill Hub 
 
 📌 **GitHub Repository**: [Project Link](https://github.com/Y-R-A-V-R-5/Handwritten_Alphabet_Classification)  
 

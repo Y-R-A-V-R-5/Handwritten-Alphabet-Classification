@@ -9,7 +9,6 @@ This project focuses on **handwritten alphabet classification** using **CNNs, RN
 
 ```
 📁 Handwritten_Alphabet_Classification  
-│── 📁 dataset/              # Raw, balanced, and augmented datasets  
 │── 📁 plots/                # Model architecture & performance plots  
 │── 📁 gradients/            # Gradient-based visualizations (Grad-CAM)  
 │── 📁 save/                 # Saved models and classification outputs  
@@ -26,7 +25,6 @@ This project focuses on **handwritten alphabet classification** using **CNNs, RN
 │── requirements.txt         # Dependencies  
 │── README.md                # Project Documentation  
 ```
-
 ---
 
 ## **🧠 Deep Learning Models Used**
@@ -119,6 +117,8 @@ streamlit==1.18.0
 
 🔹 **Author**: Adithya Vardhan Reddy  
 🔹 **Institution**: Kapil IT Skill Hub  
+
+📌 **Dataset**:  [Handwritten images](https://drive.google.com/drive/folders/1LRNMUi1tiwbFxk7r-r0KVWaRnrixCdUa?usp=drive_link)
 
 📌 **GitHub Repository**: [Project Link](https://github.com/Y-R-A-V-R-5/Handwritten_Alphabet_Classification)  
 

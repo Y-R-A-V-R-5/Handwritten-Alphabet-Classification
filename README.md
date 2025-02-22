@@ -14,7 +14,7 @@ This project focuses on **handwritten alphabet classification** using **CNNs, RN
 │── 📁 save/                 # Saved models and classification outputs  
 │   ├── 📁 no_tune/          # Non-tuned models (.h5 files)  
 │   ├── 📁 tune/             # Tuned models (.keras files)  
-│── 📁 streamlit_app/        # Streamlit deployment files  
+│── 📁 deployment/        # Streamlit deployment files  
 │   ├── main.py              # Main Streamlit application  
 │   ├── models.py            # Model selection and loading  
 │   ├── classification.py    # Classification interface  
